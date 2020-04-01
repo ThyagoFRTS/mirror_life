@@ -1,0 +1,8 @@
+cabelo:29-21-58
+sombreado-cabelo:12-10-36
+pele:242-206-171
+sombreado-pele:208-183-158
+roupa:114-181-164
+sombreado:113-159-147
+sapato:241-94-94
+sombreado-sapato:151-75-75
